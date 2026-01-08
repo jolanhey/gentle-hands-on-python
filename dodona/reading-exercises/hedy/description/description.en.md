@@ -12,8 +12,7 @@ Hedy will gradually introduce new concepts to you. In fact each "level" introduc
 commands. Today we will work through the first 4 levels of Hedy in order to understand the basics of
 programming.
 
-Join the Hedy classroom by clicking on [this link](https://hedy.org/hedy/l/IsDIDIm).
-
+Go to Hedy by clicking on [this link](https://hedy.org/). You can join the classroom using the information that you received via e-mail.
 
 <img src="media/hedy_1.png" alt="Hedy interface" style="width:95%;height:auto">
 
@@ -36,6 +35,4 @@ a program to print text to the output area with Hedy, explore some challenges in
 <img src="media/hedy_4.png" alt="Hedy interface with the challenge tabs highlighted" style="width:95%;height:auto">
 
 Finally, once you have solved a few challenges and you feel comfortable with this level you can
-move onto the next level by pressing this button:
-
-<img src="media/hedy_next_level.png" alt="Hedy interface with the next level button highlighted" style="width:95%;height:auto">
+move onto the next level.
